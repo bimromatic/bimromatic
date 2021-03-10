@@ -1,4 +1,4 @@
-### Hi there 👋
+### 学习Android这么多年了，现在开始做一些技术的分享，希望大家一起学习交流 👋👋👋
 
 <!--
 **bimromatic/bimromatic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
